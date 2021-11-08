@@ -1,6 +1,5 @@
 [core]
     remote = remote_storage
 ['remote "remote_storage"']
-    url = ssh://videtics@ipe.videtics.net/raid/remote_storage2/data
-    port = 32900
+    url = ssh://videtics@192.168.110.40/raid/remote_storage2/data
     ask_password = true
